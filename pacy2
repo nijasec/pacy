@@ -17,7 +17,7 @@ if (url.substring(0, 5) == 'http:' ||
 url.substring(0, 6) == 'https:' ||
 url.substring(0, 4) == 'ftp:')
 {
-return 'https ca-012.whiskergalaxy.com:443';
+return 'https ca-037.whiskergalaxy.com:443';
 }
  
 return 'DIRECT';
